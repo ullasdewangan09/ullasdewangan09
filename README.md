@@ -34,7 +34,7 @@ I specialize in Full-Stack Development, Cloud Computing, DevOps practices, and U
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
 </p>
 
 ### Frontend Development
@@ -46,19 +46,19 @@ I specialize in Full-Stack Development, Cloud Computing, DevOps practices, and U
 ### Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi" />
 </p>
 
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 </p>
 
 ### Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,bash,githubactions" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,bash,githubactions" />
 </p>
 
 | Technology     | Focus Area                         |
@@ -67,7 +67,6 @@ I specialize in Full-Stack Development, Cloud Computing, DevOps practices, and U
 | Docker         | Containerization                   |
 | Kubernetes     | Container Orchestration            |
 | GitHub Actions | CI/CD Automation                   |
-| Linux          | Server Administration              |
 | DevOps         | Deployment & Workflow Optimization |
 
 ### Design & Creative Tools
@@ -196,11 +195,11 @@ An intelligent preparation assessment platform that helps evaluate readiness and
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://linkedin.com/ullas-dewangan">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 

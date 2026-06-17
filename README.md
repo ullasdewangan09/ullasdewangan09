@@ -1,6 +1,6 @@
 # Hi I'm Ullas Dewangan
 
-### Cloud & Full-Stack Developer • UI/UX Designer • DevOps Enthusiast
+## Cloud & Full-Stack Developer • UI/UX Designer • DevOps Enthusiast
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ullasdewangan09&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
